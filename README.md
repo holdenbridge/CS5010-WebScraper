@@ -1,6 +1,6 @@
 # CS5010-WebScraper
 
-Introduction to web scraping and some brief data visualization. 
+Introduction to web scraping and some brief MLB data visualization. 
 
 By: Holden Bridge 
 
